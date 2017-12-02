@@ -25,3 +25,4 @@ print(a)
 
 #리스트/튜플/딕셔너리 - DB
 #int float bool None -기본 자료형
+
